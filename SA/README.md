@@ -1,4 +1,4 @@
-![](1.png)
+![](https://github.com/xiandieleiyi/ss/blob/main/SA/1.PNG)
 
 
 
