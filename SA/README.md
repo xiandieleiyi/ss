@@ -1,11 +1,10 @@
 ![](orige.png)
+
 ![](final.png)
+
 ![](1.png)
+
 ![](2.png)
-
-
-
-
 
 END Distance: 2761.311585349651
 
