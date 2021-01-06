@@ -1,4 +1,8 @@
-![](https://github.com/xiandieleiyi/ss/blob/main/SA/1.PNG)
+![](orige.png)
+![](final.png)
+![](1.png)
+![](2.png)
+
 
 
 
